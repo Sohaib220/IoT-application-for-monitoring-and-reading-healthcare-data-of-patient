@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background3.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background3.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_wieght.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\wieght.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_bloodpressure.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\bloodpressure.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_bodyweight.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\bodyweight.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background4.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background4.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_blood.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_temp_icon.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\temp_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "com.example.rflapplication.app-debug-58:/layout_activity_main.xml.flat",
+        "source": "com.example.rflapplication.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_age.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\age.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.rflapplication.app-debug-58:/drawable_custom_input.xml.flat",
+        "source": "com.example.rflapplication.app-main-60:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background1.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background5.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background5.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_heart_icon.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\heart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_tall.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\tall.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background2.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_respiration.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\respiration.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_box_background6.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\box_background6.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_baseline_person.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\baseline_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_oxygen_icon.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\oxygen_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-debug-58:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.10.2\\com.example.rflapplication.app-main-60:\\drawable\\gradient_background.xml"
+    }
+]
