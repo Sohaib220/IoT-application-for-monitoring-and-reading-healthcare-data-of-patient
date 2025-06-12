@@ -10,7 +10,13 @@ This project involves an **IoT-based healthcare monitoring system** using **ESP3
 ---
 
 ![](images/app-screen-1.png)
+
+---
+
 ![](images/app-screen-2.png)
+
+---
+
 ![](images/iot-setup.png)
 
 ---
