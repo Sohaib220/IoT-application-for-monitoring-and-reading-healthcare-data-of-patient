@@ -67,4 +67,10 @@ These sensors provide accurate vital signs for continuous patient monitoring.
 ├── app-depug.apk # Android app (Kotlin)
 
 
+---
+
+Don't forgit to give me a ⭐ on this project if you liked it
+
+
+
 
