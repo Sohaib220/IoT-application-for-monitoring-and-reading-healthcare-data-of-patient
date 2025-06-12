@@ -1,0 +1,197 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <!-- Project Title -->
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Development Of IOT Based Multi-Parameter\n Healthcare Patient Monitoring System"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:paddingTop="30dp"
+            android:paddingBottom="15dp"
+            android:background="@drawable/gradient_background"
+            android:layout_marginBottom="10dp"/>
+        <!-- human weight -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background4"
+            android:padding="5dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/bodyweight"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/weightTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weight"
+                android:textSize="20sp"
+                android:paddingTop="16dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <!-- Data Boxes -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background1"
+            android:padding="7dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:id="@+id/oxygenIcon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/oxygen_icon"
+                android:layout_marginEnd="8dp" />
+
+            <TextView
+                android:id="@+id/oxygenTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Oxygen Level : "
+                android:textSize="20sp"
+                android:paddingTop="17dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <!-- respiration percentage -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background5"
+            android:padding="5dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/respiration"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/respirationTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Respiration : "
+                android:textSize="20sp"
+                android:paddingTop="17dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background2"
+            android:padding="5dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:id="@+id/pulseIcon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/heart_icon"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/pulseTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pulse : "
+                android:textSize="20sp"
+                android:paddingTop="16dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <!-- blood pressure -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background6"
+            android:padding="5dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/bloodpressure"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/bloodPressureTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Blood Pressure : "
+                android:textSize="20sp"
+                android:paddingTop="16dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/box_background3"
+            android:padding="5dp"
+            android:layout_margin="5dp">
+
+            <ImageView
+                android:id="@+id/tempIcon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/temp_icon"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/bodyTempTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Body Temperature : "
+                android:textSize="20sp"
+                android:paddingTop="16dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+
+        <!-- IP Address Input -->
+        <EditText
+            android:id="@+id/ipAddressInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter IP Address"
+            android:textColorHint="#9C27B0"
+            android:background="@drawable/custom_input"
+            android:inputType="text"
+            android:padding="12dp"
+            android:layout_margin="5dp"
+            android:textColor="#9C27B0"/>
+
+        <!-- Connect Button -->
+        <Button
+            android:id="@+id/connectButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONNECT"
+            android:textSize="18sp"
+            android:background="@drawable/button_background"
+            android:textColor="@color/white"
+            android:padding="12dp"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+</ScrollView>
