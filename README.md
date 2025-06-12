@@ -67,12 +67,12 @@ These sensors provide accurate vital signs for continuous patient monitoring.
 ---
 
 ## 📁 Project Structure
-
+```
 .
 ├── iot_file.ino # ESP32 code for sensor data and server
 ├── app-depug.apk # Android app (Kotlin)
 
-
+```
 ---
 
 Don't forgit to give me a ⭐ on this project if you liked it
