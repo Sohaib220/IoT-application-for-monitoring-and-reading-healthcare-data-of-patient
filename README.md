@@ -3,7 +3,6 @@
 This project involves an **IoT-based healthcare monitoring system** using **ESP32** and **Kotlin**. The system reads patient health data from multiple sensors connected to an ESP32, and sends the data as **JSON** to a Kotlin mobile app which displays the live readings.
 
 > ✅ **Developed by:** Sohaib Raid Rasheed  
-> 🏢 **Created during Summer Training at Qi Card**  
 > 📱 Kotlin Android App: `app-depug.apk`  
 > 🔌 IoT Platform: ESP32
 
